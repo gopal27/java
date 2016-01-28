@@ -2,8 +2,8 @@ package com.sample.queue;
 
 public class Main {
 	
-	private final static int items = 100000;
-	private final static int QUEUE_SIZE = 1000;
+	private final static int items = 10;
+	private final static int QUEUE_SIZE = 2;
 
 	public static void main(String[] args) throws Exception {
 		
